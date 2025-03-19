@@ -1,11 +1,18 @@
 ---
 title: How to add or hide columns in the task list
-description: A guide in my new Starlight docs site.
+description: guide for table column hide
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Worklenz gives to you customize your working area. you can change your task tables look using column show and hide option.
 
-## Further reading
+- Click the **show fields** button to get the columns list.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+- Some column names are checked; some are not checked.
+
+- If you want to show more columns, you can check the relevant checkbox inside the column name.
+
+<img src="/show_hide.png" >
+
+- If you want to hide any columns; you can uncheck relevent column check box.
+
+Like this, you can change the table column's visibility.
