@@ -3,9 +3,33 @@ title: How to setup My account
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Let's start your Worklenz account
 
-## Further reading
+### Setup an account of Worklenz
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+###### 1. Give the name of your organization
+
+<img src="/organization.png" >
+continue to go next step
+
+###### 2. Create your first project:
+
+- You can start a new project
+  <img src="/project.png" >
+
+- You can use a template for it
+  <img src="/template.png" >
+
+###### 3. Create your first Task.<br>
+
+Give your first task name also you can add multiple tasks using add another button
+
+<img src="/task.png" >
+
+###### 4. Finaly you can invite your team members .<br>
+
+Using email address have to invite multiple team members using add another button or skip this step using skip button
+
+<img src="/invite.png" >
+
+Your correctly crate your workspace and it rederect your worklenz workspace.
