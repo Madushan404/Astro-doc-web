@@ -3,9 +3,16 @@ title: Task activity log
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+### What is the Task activity log?
 
-## Further reading
+It represent all activities did team member according to out task. All changes can you see in this section. It is history of member activity according to task.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+### How to watch Task activity log ?
+
+First, you should be a member of any team and you should be assigned to the relevant project and task.
+
+In the Task list, you have to select a wanted task and click it open button. It is located right side of each task.
+<img src="/Task_list.png" >
+
+Then, it will open the Drawer with task adding and changing settings. In that drawer have three tabs and you should select the **Activity Log** tab. Then you will show all the activities did your selecting task.
+<img src="/Activity_log.png" >

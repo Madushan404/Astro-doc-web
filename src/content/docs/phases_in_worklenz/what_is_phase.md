@@ -1,11 +1,10 @@
 ---
-title: Example Guide
+title: What is a phase?
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+In the project you have to categorice your work as a their type or some special thing, that is call as phase. you have to devide your task several category like their behaviors, their porpose or kind of their process.
 
-## Further reading
+In the worklenz usually you have to crate that tipe phase like Designers, Contract, Logistic, Supliers, Developers, QA, etc. Also you can filter your task using this phase.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+<img src="/phase_task_list.png" >

@@ -11,7 +11,7 @@ Task lets you manage your work, activities, and everything you need to get thing
 
 To create a new task in your project, first you should go inside your project. In a project, you can identify the **Create Task** button located on the top right corner; click it to create a new task. After, you’ll need to fill in a few key details to set up your task:
 
-1. <b>Title</b><br> You have to give your task title top of the page. Also right side drop-down list you have to choose what kind of task you'r going to add and <b>... </b> this icon give to your chance delete your task. <img src="/task_choose.png" >
+1. <b>Title</b><br> You have to give your task title top of the page. Also right side drop-down list you have to choose what kind of task (State) you'r going to add and <b>... </b> this icon give to your chance delete your task. <img src="/task_choose.png" >
 2. <b>Details</b>
     <ul>
     <li><b>Task Key</b><br>special no to your task. it will auto genarated.</li>
@@ -21,7 +21,7 @@ To create a new task in your project, first you should go inside your project. I
    <li><b>Time Estimation</b><br> You have to give time for do this task.</li>
    <li><b>Priority</b><br>This drop-down list gives to you select your task priority.<img src="/priority_list.png" > </li>
    <li><b>Labels</b><br> You have to add main point in this task as a lable.<img src="/lable.png" ></li>
-   <li><b>Billable</b><br> You have on or off billable option</li>
+   <li><b>Billable</b><br> You have on or off billable option. If it is on, it mena this task is paid task. You have to paid for this task and you have to set is as on or off. </li>
    <li><b>When done, notify</b><br>Choose account when done this task notify</li>
     </ul>
 3. <b>Description</b><br>You have to add description about your task.
@@ -37,7 +37,3 @@ Or you have to direct import worklenz template from library and work with it.
 It represent all members logged time. Also you have to edit and delete it.
 
 <img src="/time_log.png" >
-
-### Activity Log
-
-It represent all activities did team member according to out task. All changes can you see in this section. <img src="/Activity_log.png" >

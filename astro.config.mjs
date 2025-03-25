@@ -38,10 +38,23 @@ export default defineConfig({
 						autogenerate: { directory: 'invite_members' },
 				},
 
-				{
-					label: 'Task Management',
-						autogenerate: { directory: 'task_management' },
-				},
+			{
+	label: 'Task Management',
+	items: [
+		{ label: 'How to add or hide columns in the task list', link: '/task_management/1_how_to_add' },
+		{
+			label: 'How to create a new status', 
+			items: [
+				{ label: 'What is a status?', link: '/task_management/how_to_create_new_status' },
+				{ label: 'How does it work?', link: '/task_management/how_to_create_new_status#how-does-it-work' },
+				{ label: 'How to create a status', link: '/task_management/how_to_create_new_status#how-to-create-a-status' },
+				{ label: 'How to change the order of statuses', link: '/task_management/how_to_create_new_status#how-to-change-the-order-of-statuses' },
+			],
+		},
+		{ label: 'Task activity log', slug: 'task_management/task_activity' },
+	],
+},
+
 				{
 					label: 'Phases in Worklenz ',
 					items:[{ label: 'What is a phase? ', slug: 'phases_in_worklenz/what_is_phase' },
@@ -49,11 +62,6 @@ export default defineConfig({
 						   { label: 'How does it work?  ', slug: 'phases_in_worklenz/how_does_it_work' },
 
 						   { label: 'How to create a phase', slug: 'phases_in_worklenz/how_to_create_phase' },
-
-						   { label: 'How to add colors to phases', slug: 'phases_in_worklenz/how_to_add_colors' },
-
-						   { label: 'How to change the order of phases', slug: 'phases_in_worklenz/how_to_change_order' },
-					
 						]
 				},
 				{

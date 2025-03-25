@@ -1,11 +1,13 @@
 ---
-title: Example Guide
+title: How does it work?
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+In order to manage processes well in our application, we have to add several phases to all tasks according to their type. When creating a task, we can set the relevant phase for it.
 
-## Further reading
+After inside the project, you have to clearly identify tasks according to their phases.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+- We have to easily group our all tasks according to their phases.
+- You can select all tasks short by the phase, using the **Group By** dropdown list.
+
+<img src="/task_status.png" >
