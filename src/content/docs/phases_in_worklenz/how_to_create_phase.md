@@ -8,7 +8,10 @@ You have to create a phase and use it within the project.
 ### Let's Create a Phase
 
 In the Task list, you can see the "group by" dropdown box.
-<img src="/group_by_phase.png" >
+
+<p align ="center">
+<img src="/group_by_phase.png" style="border: 2px solid #D4d4d4; border-radius: 8px;">
+</p>
 
 - First you should click **Group by** dropdown and select **Phase**.
 - Then click **setting icon** near the dropdown list.
@@ -21,6 +24,7 @@ In the Task list, you can see the "group by" dropdown box.
 - You successfully added a new phase.
 - Also using the six dot sign you have to change the phase list arrangement.
 
-<img src="/phase_add.png" >
-
+<p align ="center">
+<img src="/phase_add.png" style="border: 2px solid #D4d4d4; border-radius: 8px;  ">
+</p>
 After you add a phase, It comes to the Task List interface and the new phase can be seen in all phase dropdowns. You have to easily select your new phase at any time.

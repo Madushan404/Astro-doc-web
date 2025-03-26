@@ -1,11 +1,12 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: What is a label?
+description: About Lable
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Labels are keywords or tags that you can assign to work items in order to categorize and differentiate them within your project. They are ideal for tracking components or other unique identifiers that don’t fall under the standard work item properties.
 
-## Further reading
+Labels can be used to group work items by common attributes, such as type, feature, or any other custom classification. They make it easier to filter in task list and find related work items across your project.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+<p align ="center">
+<img src="/lable_task_list.png"  style="border: 2px solid #D4d4d4; border-radius: 8px;" >
+</p>
