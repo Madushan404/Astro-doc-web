@@ -1,11 +1,16 @@
 ---
 title: What is the "Files" section inside a project?
-description: A guide in my new Starlight docs site.
+Description: A guide on my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Worklenz File feature is a showcase of all tasks in your project. You can see details in the files separately.
 
-## Further reading
+### What we can do?
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+Inside the File section, you can see all the attached files relevant to the tasks. In there, you can identify file names, Attached tasks, file size, uploaded members, and uploaded time.
+
+Also if you want to delete the attached file using the **Delete** button and using the **Download** button you can download any task relevant to all tasks.
+
+<p align ="center">
+<img src="/files_table.png" style="border: 2px solid #D4d4d4; border-radius: 8px;  ">
+</p>
