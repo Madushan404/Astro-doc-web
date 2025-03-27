@@ -38,22 +38,22 @@ export default defineConfig({
 						autogenerate: { directory: 'invite_members' },
 				},
 
-			{
-	label: 'Task Management',
-	items: [
-		{ label: 'How to add or hide columns in the task list', link: '/task_management/1_how_to_add' },
-		{
-			label: 'How to create a new status', 
-			items: [
-				{ label: 'What is a status?', link: '/task_management/how_to_create_new_status' },
-				{ label: 'How does it work?', link: '/task_management/how_to_create_new_status#how-does-it-work' },
-				{ label: 'How to create a status', link: '/task_management/how_to_create_new_status#how-to-create-a-status' },
-				{ label: 'How to change the order of statuses', link: '/task_management/how_to_create_new_status#how-to-change-the-order-of-statuses' },
-			],
-		},
-		{ label: 'Task activity log', slug: 'task_management/task_activity' },
-	],
-},
+				{
+					label: 'Task Management',
+					items: [
+						{ label: 'How to add or hide columns in the task list', link: '/task_management/1_how_to_add' },
+						{
+							label: 'How to create a new status', 
+							items: [
+								{ label: 'What is a status?', link: '/task_management/how_to_create_new_status' },
+								{ label: 'How does it work?', link: '/task_management/how_to_create_new_status#how-does-it-work' },
+								{ label: 'How to create a status', link: '/task_management/how_to_create_new_status#how-to-create-a-status' },
+								{ label: 'How to change the order of statuses', link: '/task_management/how_to_create_new_status#how-to-change-the-order-of-statuses' },
+							],
+						},
+						{ label: 'Task activity log', slug: 'task_management/task_activity' },
+					],
+				},
 
 				{
 					label: 'Phases in Worklenz ',
@@ -76,11 +76,11 @@ export default defineConfig({
 				},
 				{
 					label: 'Task Views and Their Benefits',
-					items:[{ label: 'Task list ', slug: 'task_view_and_their_benifits/kanban' },
+					items:[{ label: 'Task list ', slug: 'task_view_and_their_benifits/task_list' },
 					
 						   { label: 'Kanban  ', slug: 'task_view_and_their_benifits/kanban' },
 
-						   { label: 'Roadmap ', slug: 'task_view_and_their_benifits/kanban' },
+						   { label: 'Roadmap ', slug: 'task_view_and_their_benifits/roadmap' },
 
 						]
 				},

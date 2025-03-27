@@ -3,9 +3,17 @@ title: Roadmap
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+### What is the Roadmap?
 
-## Further reading
+Worklenz Roadmap is the simple Time frame. using this we have to easily plane our entier works.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+- First you should go to **Roadmap** section in workplace.
+- You can see **Group By** dropdown, It is responsible for arrange task list data according to status, Priority and Phase.
+- Using this dropdown easily group your task set in Roadmap table.
+- In Roadmap table **Set Start Date** and **Set Due Date** is show days for have each task.
+- Also in **Add Task** button responsible for add new task for your roadmap table.
+- Each task has freely adjestable bar, you have to change it as you wanted.
+
+<p align ="center">
+<img src="/Roadmap_table.png" style="border: 2px solid #D4d4d4; border-radius: 8px;  ">
+</p>
