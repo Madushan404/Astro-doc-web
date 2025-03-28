@@ -118,9 +118,6 @@ export default defineConfig({
 					items:[{ label: 'Benefits of archiving tasks  ', slug: 'task_archiving/benifit_of_archiving' },
 					
 						   { label: 'How to archive tasks  ', slug: 'task_archiving/how_to_archive_task' },
-
-						   { label: 'How to view archived tasks ', slug: 'task_archiving/how_to_view_archive' },
-
 						]
 				},
 				{
