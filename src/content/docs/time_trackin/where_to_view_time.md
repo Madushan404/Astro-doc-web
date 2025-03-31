@@ -6,7 +6,7 @@ description: A guide in my new Starlight docs site.
 You can see Time reports,
 
 - As a Project
-- As a Member,
+- As a Member
 - As an Estimated vs Actual
 
 The worklenz gives you a separate section for the reporting. But this section is only accessible to the admin or project owner. Using this section you can export several reports about your team and projects.
