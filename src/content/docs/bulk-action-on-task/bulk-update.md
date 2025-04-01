@@ -1,4 +1,4 @@
 ---
-title: What is the "Files" section inside a project?
+title: Bulk update
 description: A guide in my new Starlight docs site.
 ---

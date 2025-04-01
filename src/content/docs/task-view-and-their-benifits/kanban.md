@@ -9,3 +9,7 @@ Writing a good guide requires thinking about what your users are trying to do.
 ## Further reading
 
 - Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+
+<p align ="center">
+<img src="/kanban.png" style="border: 2px solid #D4d4d4; border-radius: 8px;  ">
+</p>
