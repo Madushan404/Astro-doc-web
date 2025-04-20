@@ -3,28 +3,22 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import tailwind from '@astrojs/tailwind';
 
-// https://astro.build/config
 export default defineConfig({
-	
 	integrations: [
 		starlight({
-		  
-		  title: {
-			en: 'Worklenz',
-			'zh-CN': '我的文档',
-		  },
-		  defaultLocale: 'en',
-		  locales: {
-			en: { label: 'English' },
-			'zh-cn': { label: '简体中文', lang: 'zh-CN' },
-		  },
-		
-
-			logo:{src:'./src/assets/logo.png',replacesTitle: true,},
+			title: {
+				en: 'Worklenz',
+				'zh-CN': '我的文档',
+			},
+			defaultLocale: 'en',
+			locales: {
+				en: { label: 'English' },
+				'zh-cn': { label: '简体中文', lang: 'zh-cn' },
+			},
+			logo: { src: './src/assets/logo.png', replacesTitle: true },
 			social: {
 				github: 'https://github.com/Worklenz/worklenz',
 			},
-		 
 			sidebar: [
 				{
 					label: 'Getting Started',
@@ -195,8 +189,8 @@ export default defineConfig({
 						{ label: 'Where to view time reports', translations: { 'zh-CN': '在哪里查看时间报告' }, slug: 'time-trackin/where-to-view-time' },
 					],
 			
-			
 				},
+				
 			],
 			customCss: ['./src/tailwind.css'],
 		}),
